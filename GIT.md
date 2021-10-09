@@ -36,4 +36,4 @@
 * git push把文件推到远程仓库
 * git init创建本地目录
 * git clone 远程仓库的地址（克隆远程目录）
-* git status查看暂存区
+* git status查看暂存区 
